@@ -6,11 +6,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;MERN+Stack+Developer;Python+%26+Django+Developer;Building+AI-Powered+Web+Applications;Always+Learning+Something+New+🚀" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Rita-Birhanu&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Rita-Birhanu?logo=github&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Rita-Birhanu?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ## Software Engineering Student | MERN Stack & Python/Django Developer | Building AI-Powered Web Applications 🚀
@@ -104,9 +104,9 @@ My current focus is combining **software engineering best practices** with **art
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rita-Birhanu&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rita-Birhanu&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -116,7 +116,7 @@ My current focus is combining **software engineering best practices** with **art
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rita-Birhanu&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -126,7 +126,7 @@ My current focus is combining **software engineering best practices** with **art
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rita-Birhanu&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -136,7 +136,7 @@ My current focus is combining **software engineering best practices** with **art
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rita-Birhanu&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
